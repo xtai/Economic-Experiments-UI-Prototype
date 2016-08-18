@@ -1,0 +1,60 @@
+/*******************************
+            Global
+*******************************/
+
+/*-------------------
+        Page
+--------------------*/
+
+#round .page {
+  padding: 1em 2em;
+  min-width: 990px;
+}
+
+#round .page .ui.right.floated.header{
+  font-weight: 100;
+  margin-top: 5px;
+}
+
+#round .ordered.steps {
+  width: 100%;
+  padding: 0 0 1em 0;
+}
+
+#round .divided.two.column {
+  padding: 0 1em;
+}
+
+#round .footer {
+  text-align: right;
+}
+
+#round .right.column .ui.statistic .label,
+#round .right.column .ui.statistic .value {
+  width: 100%
+}
+
+#round .left.column {
+  background-color: #F7F7F7;
+  padding: 1em 2em;
+  max-width: 940px !important;
+}
+#round .ui.statistic.column{
+  max-width: none;
+}
+#round .left.column .ui.column.centered.grid,
+#round .left.column .ui.two.column.grid {
+  margin: -0.6rem -1.6rem;
+}
+
+#round .left.column .ui.two.column.grid .column {
+  padding: .6rem .6rem;
+}
+
+#round .right.column {
+  background-color: #FFFFFF;
+}
+
+#round .right.column {
+  font-size: 16px;
+}

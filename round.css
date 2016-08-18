@@ -1,0 +1,85 @@
+/*******************************
+            Global
+*******************************/
+
+/*-------------------
+        Page
+--------------------*/
+
+#round .page {
+  padding: 1em 2em;
+  min-width: 1126px;
+}
+
+#round .page .ui.right.floated{
+  font-weight: 100;
+  margin-top: 2px;
+}
+
+#round .page .ui.right.floated.header{
+  font-weight: 100;
+  margin-top: 7px;
+}
+
+#round .ordered.steps {
+  width: 100%;
+  padding: 0 0 1em 0;
+}
+
+#round .divided.two.column {
+  padding: 0 1em;
+}
+
+#round .footer {
+  text-align: right;
+}
+
+#round .left.column {
+  background-color: #F7F7F7;
+  padding: 1em 2em;
+}
+#round .ui.statistic.column{
+  max-width: none;
+}
+
+#round .ui.celled.grid.level1,
+#round .twelve.wide.left.column,
+#round .ui.celled.grid.level2-1,
+#round .ui.celled.grid.level2-2,
+#round .ui.celled.grid.level2-3 {
+  padding: 0;
+}
+
+#round .left.column .eight.wide.column,
+#round .left.column .sixteen.wide.column{
+  padding: 2rem;
+}
+
+#round .ui.celled.grid.level2-2,
+#round .ui.celled.grid.level2-3{
+  margin-top: 1px;
+}
+#round .left.column .eight.wide.column,
+#round .left.column .sixteen.wide.column{
+  padding-top: 0.8rem;
+}
+
+#round .left.column .ui.column.centered.grid,
+#round .left.column .ui.two.column.grid,
+#round .left.column .ui.four.column.grid {
+  margin: -0.6rem -1.6rem;
+}
+
+#round .left.column .ui.two.column.grid .column
+#round .left.column .ui.four.column.grid .column {
+  padding: .6rem .6rem;
+}
+
+#round .right.column {
+  background-color: #FFFFFF;
+}
+
+#round .right.column .ui.statistic .label,
+#round .right.column .ui.statistic .value {
+  width: 100%
+}
